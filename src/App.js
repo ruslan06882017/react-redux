@@ -3,9 +3,6 @@ import {connect} from 'react-redux';
 import MyCounter from './MyCounter';
 
 class App extends Component {
-  constructor(props){
-    super(props);
-  }
 
   render(){
    // console.log(this.props);
